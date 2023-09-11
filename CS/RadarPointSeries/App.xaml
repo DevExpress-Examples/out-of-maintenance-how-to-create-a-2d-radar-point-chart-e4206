@@ -1,7 +1,0 @@
-﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
-             x:Class="RadarPointSeries.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
-    <Application.Resources>
-    <my:String x:Key="DevExpress.Xpf.License">78-11-F5-58-AB-E4-E7-C9-73-2D-2E-A8-F4-21-A1-2F-00-F0-F0-D2</my:String>
-  </Application.Resources>
-</Application>
